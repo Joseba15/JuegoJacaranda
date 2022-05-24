@@ -12,7 +12,7 @@ public class Jugador extends Element{
 	
 	public Jugador (PlayerType type) {
 		super(ElementType.valueOf(type.name()));
-		this.player=type;
+		this.player=type; 
 	}
 
 	public String getNombre() {

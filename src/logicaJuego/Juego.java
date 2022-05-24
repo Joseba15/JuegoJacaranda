@@ -16,6 +16,13 @@ public class Juego {
 	private int dado; // Dado para ver los movimientos del jugador que juega
 
 
+	
+	
+	public Juego() {
+		
+	}
+
+	
 	/**
 	 * Escribe el tablero en formato no gráfico. Devuelve el string con la
 	 * información
